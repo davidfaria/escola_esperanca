@@ -1,0 +1,1 @@
+criar script database tabela aluno
